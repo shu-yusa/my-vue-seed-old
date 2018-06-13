@@ -1,4 +1,4 @@
-# my-project
+# my-vue-seed
 
 > A Vue.js project
 
